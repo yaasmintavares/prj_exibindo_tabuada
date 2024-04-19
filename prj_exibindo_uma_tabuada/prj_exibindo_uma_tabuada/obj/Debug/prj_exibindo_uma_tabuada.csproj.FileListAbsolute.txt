@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\prj_estrutura_repetição\prj_exibindo_uma_tabuada\prj_exibindo_uma_tabuada\obj\Debug\prj_exibindo_uma_tabuada.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\prj_estrutura_repetição\prj_exibindo_uma_tabuada\prj_exibindo_uma_tabuada\obj\Debug\prj_exibindo_uma_tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\prj_estrutura_repetição\prj_exibindo_uma_tabuada\prj_exibindo_uma_tabuada\bin\Debug\prj_exibindo_uma_tabuada.exe.config
+C:\Users\Usuario\Desktop\prj_estrutura_repetição\prj_exibindo_uma_tabuada\prj_exibindo_uma_tabuada\bin\Debug\prj_exibindo_uma_tabuada.exe
+C:\Users\Usuario\Desktop\prj_estrutura_repetição\prj_exibindo_uma_tabuada\prj_exibindo_uma_tabuada\bin\Debug\prj_exibindo_uma_tabuada.pdb
+C:\Users\Usuario\Desktop\prj_estrutura_repetição\prj_exibindo_uma_tabuada\prj_exibindo_uma_tabuada\obj\Debug\prj_exibindo_uma_tabuada.exe
+C:\Users\Usuario\Desktop\prj_estrutura_repetição\prj_exibindo_uma_tabuada\prj_exibindo_uma_tabuada\obj\Debug\prj_exibindo_uma_tabuada.pdb
